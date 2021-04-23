@@ -1,0 +1,10 @@
+{
+    "name": "blendwerk/coding-standard",
+    "description": "Blendwerk Coding Standard for PHP_CodeSniffer",
+    "type": "phpcodesniffer-standard",
+    "require": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "slevomat/coding-standard": "^6.3",
+        "dealerdirect/phpcodesniffer-composer-installer": "*"
+    }
+}
